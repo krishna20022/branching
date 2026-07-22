@@ -32,7 +32,3 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Print message
         run: Pipeline Completed Successfully!
-      - name: Print message
-        run: |
-          echo "Pipeline Completed Successfully!"
-          echo "This is my first GitHub Actions pipeline."
